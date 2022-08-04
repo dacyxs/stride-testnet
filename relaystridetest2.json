@@ -4,7 +4,7 @@
     "key": "default",
     "chain-id": "STRIDE-TESTNET-2",
     "rpc-addr": "http://127.0.0.1:16657",
-    "account-prefix": "stride,
+    "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
     "gas-prices": "0.01ustrd",
