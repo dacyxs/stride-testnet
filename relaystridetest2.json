@@ -3,7 +3,7 @@
   "value": {
     "key": "dacxys",
     "chain-id": "STRIDE-TESTNET-2",
-    "rpc-addr": "tcp://127.0.0.1:16657",
+    "rpc-addr": "tcp://38.242.146.249:16657",
     "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.1,
